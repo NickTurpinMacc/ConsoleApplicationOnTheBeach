@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\bin\Debug\OnTheBeach.sdf
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\bin\Debug\ConsoleApplicationOnTheBeach.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\bin\Debug\ConsoleApplicationOnTheBeach.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\obj\x86\Debug\ConsoleApplicationOnTheBeach.exe
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\obj\x86\Debug\ConsoleApplicationOnTheBeach.pdb
+D:\Documents\Visual Studio 2010\Projects\ConsoleApplicationOnTheBeach\ConsoleApplicationOnTheBeach\obj\x86\Debug\ConsoleApplicationOnTheBeach.csprojResolveAssemblyReference.cache
